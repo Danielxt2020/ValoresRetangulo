@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.exe
+C:\Users\danie\source\repos\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.deps.json
+C:\Users\danie\source\repos\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.runtimeconfig.json
+C:\Users\danie\source\repos\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.runtimeconfig.dev.json
+C:\Users\danie\source\repos\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.dll
+C:\Users\danie\source\repos\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.pdb
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.AssemblyInfo.cs
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.dll
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.pdb
+C:\Users\danie\source\repos\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.genruntimeconfig.cache
